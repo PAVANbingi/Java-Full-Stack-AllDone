@@ -1,0 +1,10 @@
+# Create a .gitkeep file in each empty folder
+find . -type d -empty -exec touch {}/.gitkeep \;
+===============================================
+#Daily Practice and Commit
+As you continue your daily practice and add files or make changes:
+#git add <file or directory>
+
+#git commit -m "Description of changes made"
+
+#git push

@@ -10,6 +10,10 @@ As you continue your daily practice and add files or make changes:
 # 2nd :	git commit -m "Description of changes made"
 
 ======================================
+-----
+The git pull command is used to fetch and download the updated content from a " remote repository " and -- immediately update the "local repository" to match that content.
+-----
+
 # 3rd :	***git pull origin main***
 ------
  Merge remote changes

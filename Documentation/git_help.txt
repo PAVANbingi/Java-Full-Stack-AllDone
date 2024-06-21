@@ -1,10 +1,24 @@
+========================================
 # Create a .gitkeep file in each empty folder
 find . -type d -empty -exec touch {}/.gitkeep \;
 ===============================================
-#Daily Practice and Commit
+#************Daily Practice and Commit*********************
 As you continue your daily practice and add files or make changes:
-#git add <file or directory>
 
-#git commit -m "Description of changes made"
 
-#git push
+# 1st :	git add .
+# 2nd :	git commit -m "Description of changes made"
+
+======================================
+# 3rd :	***git pull origin main***
+------
+ Merge remote changes
+press :Esc 	to ensure you're in normal mode, 
+type  :wq, 
+and then press : Enter 	to save the changes and quit.
+
+------
+# 4th :	***git commit -m "Description of changes made"***
+# 5th : ***git push origin main***
+
+========================================

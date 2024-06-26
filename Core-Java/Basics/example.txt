@@ -1,0 +1,3 @@
+Hello, World!
+Welcome to file operations in Java.
+This is appended text.

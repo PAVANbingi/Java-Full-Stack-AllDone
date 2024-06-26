@@ -1,0 +1,26 @@
+Hi iam pavan kumar giving the user inforamtion :
+User Information:
+User ID: 101
+Name: vinayKumarBingi
+Age: 23
+Active: No
+Balance: $9.9999999E7
+Gender: M
+User Information:
+User ID: 99
+Name: pavankuamarBingi
+Age: 23
+Active: Yes
+Gender: M
+Balance: $450090.0
+----------------------------
+
+User Information:
+User ID: 102
+Name: vinay
+Age: 23
+Active: Yes
+Gender: M
+Balance: $1342345.0
+----------------------------
+
